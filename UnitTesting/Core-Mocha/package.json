@@ -1,0 +1,9 @@
+{
+    "name": "sample-api",
+    "main": "server.js",
+    "dependencies": {
+    },
+    "scripts": {
+       "test": "mocha"
+    }
+}

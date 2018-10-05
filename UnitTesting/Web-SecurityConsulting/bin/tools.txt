@@ -1,0 +1,7 @@
+Convertir HTML5 a Jade
+http://html2jade.org/
+
+Estructura de Proyecto creada con http://expressjs.com/starter/generator.html
+
+Testing Frameworks
+[Buster.Js] http://docs.busterjs.org/en/latest/# 
