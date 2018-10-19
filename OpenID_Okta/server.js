@@ -10,8 +10,8 @@ let app = express();
 
 // Globals
 const OKTA_ISSUER_URI = "https://ucenfotec-ac.okta.com"
-const OKTA_CLIENT_ID = "0oa2romh2cDmdLTaU356";
-const OKTA_CLIENT_SECRET = "rPJ4obTndhpHUmocoyNTOTqe3xA0WHbHTaLMegmt";
+const OKTA_CLIENT_ID = "0oa2r__________dLTaU356";
+const OKTA_CLIENT_SECRET = "rPJ4obTndhp____________WHbHTaLMegmt";
 const REDIRECT_URI = "http://localhost:3000/authorization-code/callback";
 const PORT = process.env.PORT || "3000";
 const SECRET = "kajshdkajshdkjahsdkjahsdkjahskjdhaksjhdkajhsdkajhsdkjsd";
